@@ -356,6 +356,7 @@
     height: 518px;
     background: #FBF1E7;
     margin-top: 200px;
+    
 }
 
 .title {
@@ -500,7 +501,8 @@
 .contact {
     text-align: center;
     height: 450px;
-    background: #FBF1E7;;
+    background: #FBF1E7;
+    margin-top: 120px;
 }
 
 .title__contact {
