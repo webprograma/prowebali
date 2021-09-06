@@ -166,7 +166,7 @@
     margin-left: 162px
 }
 
-.block__title1 {
+.block__title {
     font-family: var(--phil);
     font-weight: 700;
     font-size: 28px;
@@ -298,7 +298,7 @@
     border-radius: 75px 10px 75px 10px;
 }
 
-.block__title {
+.block__title1 {
     font-family: var(--phil);
     font-weight: 700;
     font-size: 25px;
